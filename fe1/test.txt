@@ -1,2 +1,5 @@
+feature2
 feature1
 kavindya
+
+test 2
